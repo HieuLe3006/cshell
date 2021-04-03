@@ -1,0 +1,15 @@
+$hey=123
+$how=123
+$sus=123
+$hey1=123
+$heoalfs=132
+$headlskf=1234
+print $sus
+print $headlskf
+$blah=1233413414
+print $blah
+$hey=999
+print $hey
+hi
+exit
+log
