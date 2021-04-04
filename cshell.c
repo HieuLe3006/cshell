@@ -415,6 +415,7 @@ int main(int argc, char **argv){
 		count++;
 		if(interactive==TRUE){
 			//printf("Reading line in interactive mode\n");
+			printf("cshell$ ");
 			fgets(CommandLine, 100, stdin);
 			if(strcmp(CommandLine, "")==0)
 				break;
